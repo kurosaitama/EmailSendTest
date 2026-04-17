@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 def send_gmail():
     # (you gm cred)
     sender_email = "Sample Text@gmail.com"
-    sender_password = "you password"  
+    sender_password = "you_password"      # use app password if 2FA is on
     receiver_email = "rec_email@gmail.com"
 
     # Email content
