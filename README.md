@@ -1,3 +1,4 @@
-# test
-email sender template... nuffin else
-also if you downloaded the- SUFFRAGETE CITEH- file (which contained the code) rename the format from txt to .py
+# email sender template
+feutures:
+literal
+note: purely experimental, dont put your f****** real password in it, you can use app password (if you dont want to do app password it's recommend to use a burner or throwaway account
